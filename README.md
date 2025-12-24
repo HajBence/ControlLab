@@ -1,11 +1,10 @@
 # ControlLab
-# ControlHub_privat
 
-**ControlHub** is a personal engineering and development hub designed to organize  
+**ControlLab** is a personal engineering and development hub designed to organize  
 robotics, mechatronics, control systems, software development, and CAD projects  
 in a structured, version-controlled environment.
 
-> This repository is currently **private** and under active development.
+> This repository is currently **public** and under active development.
 
 ---
 
